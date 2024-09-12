@@ -1,1 +1,1 @@
-{}
+[{"proxy": "58.223.130.218:8081", "type": "direct", "target_url": "https://isz.ydmap.cn/srv100352/api/pub/sport/venue/getVenueOrderList?md5__1182=YqGxcDuDBDnDyDjxeqq05E31wgmiiGQ7eD"}]
