@@ -87,9 +87,4 @@
 123.112.213.178:9000
 67.43.236.20:31943
 111.224.11.208:8089
-spcd4oi57p:1u8e~wxs0OmFNl1rrP@cn.visitxiangtan.com:30006
-spcd4oi57p:1u8e~wxs0OmFNl1rrP@cn.visitxiangtan.com:30002
-spcd4oi57p:1u8e~wxs0OmFNl1rrP@cn.visitxiangtan.com:30007
-spcd4oi57p:1u8e~wxs0OmFNl1rrP@cn.visitxiangtan.com:30010
-spcd4oi57p:1u8e~wxs0OmFNl1rrP@cn.visitxiangtan.com:30001
-spcd4oi57p:1u8e~wxs0OmFNl1rrP@cn.visitxiangtan.com:30009
+143.64.8.21:8080
